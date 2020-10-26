@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please update the apiServer variable from Environment.js file to point to correct apiEndpoint.
 
 ## Available Scripts
 
